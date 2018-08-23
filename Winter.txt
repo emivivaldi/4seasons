@@ -1,9 +1,7 @@
-# Gaelic for the Winter
+#Gaelic for the Winter
 
-|Gaelic	| English |
--------------------
-|aon	|one|
-|dhà	|two|
-|trì	|three|
-|ceithir	|four|
-|còig	|five|
+aon
+dhà
+trì
+ceithir
+còig
